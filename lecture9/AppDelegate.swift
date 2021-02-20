@@ -5,9 +5,10 @@
 //  Created by admin on 15.02.2021.
 //
 
+
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
